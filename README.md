@@ -7,7 +7,6 @@
 
 Transform your YouTube video watching experience with 🅱🅻🅰🆀's YouTube Video Summarizer. This tool uses cutting-edge generative AI to convert video transcripts into succinct, informative summaries. Perfect for students, professionals, and anyone looking to extract value quickly from long videos.
 
-![image](https://placehold.it/400x300) ![image](https://placehold.it/400x300)
 
 ## Table of Contents
 
